@@ -29,5 +29,5 @@ This project aims to explore and showcase the applications of BERT in different 
 Clone the repository:
 
 ```bash
-git clone https://github.com/doowilliams/ideal-telegramgit
+git clone https://github.com/doowilliams/ideal-telegram.git
 cd BERT_and_its_Applications
